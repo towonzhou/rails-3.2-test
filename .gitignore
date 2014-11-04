@@ -1,0 +1,15 @@
+*.DS_Store
+pkg
+*.lock
+log/*
+tmp/*
+# for template
+database.yml
+config/database.yml.org
+app_config.yml
+rainbows.rb
+*.swp
+*.log
+doc/order/
+config/qa.rb
+qa.sh.org
