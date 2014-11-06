@@ -23,6 +23,8 @@ end
 gem 'jquery-rails'
 gem 'susy'
 gem 'compass-rails'
+gem 'sunspot_rails'
+gem 'sunspot_solr' # optional pre-packaged Solr distribution for use in development
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
