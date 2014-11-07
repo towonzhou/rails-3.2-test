@@ -1,0 +1,1061 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>台湾民宿推荐_台湾酒店推荐_台湾住宿推荐 - 大鱼自助游</title>
+<meta content="大鱼为您推荐最好的台湾住宿、台湾民宿、台湾酒店，并提供网上预订" name="description" />
+<meta content="台湾住宿,台湾民宿,台湾酒店,台湾民宿推荐,台湾民宿图片,台湾民宿预订,台湾酒店预订,台湾酒店推荐," name="keywords" />
+    <meta name="author" content="webmaster@fishtrip.cn">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    
+<link href="http://www.fishtrip.cn/assets/vdayu_3rd_base-af6a40b8abea7434c13db74999fae2c7.css" media="all" rel="stylesheet" type="text/css" />
+<link href="http://www.fishtrip.cn/assets/vdayu_base-551ef45c0bc5ecccab3ce7afbba1f0ad.css" media="all" rel="stylesheet" type="text/css" />
+<link href="http://www.fishtrip.cn/assets/application-e6f1c0a9f1170780955347ff64acb4fc.css" media="all" rel="stylesheet" type="text/css" />
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="a776jN7OyiRuUqh2sIbL7uKhcJei2wDQuvkFQik9PrU=" name="csrf-token" />
+    <!--[if lte IE 8]>
+      <link href="http://www.fishtrip.cn/assets/style-ie-b4c57f404296247466a7c34148a18386.css" media="screen" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://www.fishtrip.cn/assets/3rd/html5-343d0dcd607672d62a6d433e050924dd.js" type="text/javascript"></script>
+    <![endif]-->
+
+      <link href="http://www.fishtrip.cn/mobile/countries/kP6hBaVM3A0/houses/home" media="only screen and (max-width: 640px)" rel="alternate"></link><meta content="format=html5;url=http://www.fishtrip.cn/mobile/countries/kP6hBaVM3A0/houses/home" name="mobile-agent"></meta>
+
+  </head>
+
+  <body class="">
+    
+<header class="">
+  <div class='container'>
+    <ul class='nav menu-nav header-logo'>
+  <div class="brand-logo">
+  <a href="http://www.fishtrip.cn/" class="blogo__logo">
+    大鱼
+</a>
+  <a href="/referrals/new" class="blogo__bonus" target="_blank">
+</a>
+  <a href="/referrals/new" class="blogo__triangle" target="_blank"> </a>
+</div>
+
+
+</ul>
+
+<ul class='nav menu-nav'>
+  <div class='country-select-wrapper btn-group js_sherd_header_country_selector '>
+    <span class='country-select js_country_selector'>
+      <div class='country-select-inner dropdown-toggle' data-toggle="dropdown">
+          <p>台湾</p>
+        <span class='icon-home-select-triangle'></span>
+      </div>
+      <ul class='dropdown-menu country-select-items dropdown-menu'>
+          <li class='country-select-item' tabindex='-1'>
+          <a href="/countries/K8nJ0ERhv8w">日本</a>
+          </li>
+          <li class='country-select-item' tabindex='-1'>
+          <a href="/countries/MqU9vrCuM5k">帕劳</a>
+          </li>
+          <li class='country-select-item' tabindex='-1'>
+          <a href="/countries/uEA8SC7gDVY">巴西</a>
+          </li>
+      </ul >
+    </span>
+  </div>
+</ul>
+<ul class='nav menu-nav header-cate'>
+    <li class='on'>
+    <a href="/countries/kP6hBaVM3A0/houses/home">
+        住宿
+</a>    </li>
+    <li class=''>
+    <a href="/countries/kP6hBaVM3A0/activities/home">
+        活动
+</a>    </li>
+    <li class=''>
+    <a href="/countries/kP6hBaVM3A0/traffic_search/home">
+        交通
+</a>    </li>
+    <li class=''>
+    <a href="/activities/V-80P_8ejs8">
+        入台证
+</a>    </li>
+    <li class=''>
+    <a href="/countries/kP6hBaVM3A0/day_trips">
+        发现台湾
+</a>    </li>
+  <div class='cate-bar-container'>
+    <span id="cate-bar" class="width64" style="left:0px;width:64"></span>
+  </div>
+</ul>
+
+<ul class='nav user-nav'>
+    <li class="user-box"><a href="http://www.fishtrip.cn/login" id="nav_login">登陆</a><a href="http://www.fishtrip.cn/signup">注册</a></li>
+
+</ul>
+
+<ul class='nav menu-nav search-nav'>
+  <div class='search-bar header_search_bar'>
+    <li>
+      <div class="nav-search nav_search search-box" id='header_search_box'>
+        <form accept-charset="UTF-8" action="/search" class="search-form search_form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+          <input class="nav_cat_hidden" id="cat" name="cat" type="hidden" value="All" />
+          <span id='header_search_icon' class='click_to_search header-search-icon yicon yicon-search-glass-gray'></span>
+          <input autocomplete="off" class="text" id="header_search_text" name="q" placeholder="您想找的地方、活动、住宿" type="text" />
+          <span class="clear clear_blue yicon yicon-search-bar-clear-blue" style="display:none"></span>
+          <span class="clear clear_gray yicon yicon-search-bar-clear-gray" style="display:none"></span>
+</form>      </div>
+    </li>
+    <ul class="suggestion">
+      <li class="tips">与“<span class="suggest_word"></span>”相关的搜索结果</li>
+        <li class="item striped " data-cat=House >
+          <a href="#">
+            住宿<span class='house count'>0</span>
+</a>        </li>
+        <li class="item  " data-cat=Tour >
+          <a href="#">
+            活动<span class='tour count'>0</span>
+</a>        </li>
+        <li class="item striped " data-cat=Traffic >
+          <a href="#">
+            交通<span class='traffic count'>0</span>
+</a>        </li>
+        <li class="item  " data-cat=Itinerary >
+          <a href="#">
+            行程<span class='itinerary count'>0</span>
+</a>        </li>
+        <li class="item striped last-suggest-item" data-cat=Place >
+          <a href="#">
+            目的地<span class='place count'>0</span>
+</a>        </li>
+    </ul>
+  </div>
+</ul>
+
+    <div class="alert-messages " id="message-drawer">
+</div>
+
+  </div>
+</header>
+
+
+    
+    
+<div class='house-home-cover ga-house-home' style="background: black url('/assets/house_home_page/tw_cover_20140504.jpg') center center no-repeat" data-ga-meta-country="台湾">
+    <form accept-charset="UTF-8" action="/countries/kP6hBaVM3A0/houses" class="house_home_search_form" method="get" url="http://www.fishtrip.cn/countries/kP6hBaVM3A0/houses"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+      <div class='container'>
+        <div class='house-home-cover__search house_home_search'>
+          <h1>台湾特色住宿</h1>
+          <div class='input-wrapper input_wrapper'>
+            <input class="house-home-cover__search-name house_home_search_name" id="name" name="name" placeholder="城市、热门区域" readonly="readonly" type="text" value="" />
+            <div class='house-suggester house_suggester'>
+  <div class='suggester'>
+    <ul>
+        <li class='item' data-city-name='台北' >
+        <a class='city-name ' data-ignore_flag=false >台北</a>
+          <span class='districts tags' >
+              <a data-ignore_flag='false'>西门町</a>
+              <a data-ignore_flag='false'>台北车站</a>
+              <a data-ignore_flag='false'>士林区</a>
+              <a data-ignore_flag='false'>北投温泉</a>
+              <a data-ignore_flag='false'>信义商圈</a>
+              <a data-ignore_flag='false'>台北周边</a>
+          </span>
+        </li>
+        <li class='item' data-city-name='花莲' >
+        <a class='city-name ' data-ignore_flag=false >花莲</a>
+          <span class='districts tags' >
+              <a data-ignore_flag='false'>太鲁阁</a>
+              <a data-ignore_flag='false'>七星潭</a>
+              <a data-ignore_flag='false'>花莲市区</a>
+              <a data-ignore_flag='false'>花莲火车站</a>
+              <a data-ignore_flag='false'>花莲海岸线</a>
+          </span>
+        </li>
+        <li class='item' data-city-name='九份' >
+        <a class='city-name ' data-ignore_flag=false >九份</a>
+          <span class='districts tags' >
+          </span>
+        </li>
+        <li class='item' data-city-name='垦丁' >
+        <a class='city-name ' data-ignore_flag=false >垦丁</a>
+          <span class='districts tags' >
+              <a data-ignore_flag='false'>垦丁大街</a>
+              <a data-ignore_flag='false'>后壁湖/白砂/猫鼻头</a>
+              <a data-ignore_flag='false'>恒春镇</a>
+              <a data-ignore_flag='false'>南湾</a>
+              <a data-ignore_flag='false'>佳乐水</a>
+              <a data-ignore_flag='false'>船帆路</a>
+              <a data-ignore_flag='false'>鹅銮鼻</a>
+          </span>
+        </li>
+        <li class='item' data-city-name='高雄' >
+        <a class='city-name ' data-ignore_flag=false >高雄</a>
+          <span class='districts tags' >
+              <a data-ignore_flag='false'>85大楼</a>
+              <a data-ignore_flag='false'>高雄火车站</a>
+              <a data-ignore_flag='false'>西子湾</a>
+          </span>
+        </li>
+        <li class='item' data-city-name='台南' >
+        <a class='city-name ' data-ignore_flag=false >台南</a>
+          <span class='districts tags' >
+              <a data-ignore_flag='false'>台南市区/赤坎楼附近</a>
+              <a data-ignore_flag='false'>海安路/神农街附近</a>
+              <a data-ignore_flag='false'>安平古堡附近</a>
+          </span>
+        </li>
+        <li class='item' data-city-name='台中' >
+        <a class='city-name ' data-ignore_flag=false >台中</a>
+          <span class='districts tags' >
+              <a data-ignore_flag='false'>逢甲夜市</a>
+              <a data-ignore_flag='false'>台中火车站</a>
+          </span>
+        </li>
+        <li class='item' data-city-name='嘉义' >
+        <a class='city-name ' data-ignore_flag=false >嘉义</a>
+          <span class='districts tags' >
+              <a data-ignore_flag='false'>嘉义市区</a>
+              <a data-ignore_flag='false'>阿里山</a>
+          </span>
+        </li>
+        <li class='item' data-city-name='南投' >
+        <a class='city-name ' data-ignore_flag=false >南投</a>
+          <span class='districts tags' >
+              <a data-ignore_flag='false'>日月潭</a>
+              <a data-ignore_flag='false'>清境农场</a>
+              <a data-ignore_flag='false'>埔里</a>
+          </span>
+        </li>
+        <li class='item' data-city-name='台东' >
+        <a class='city-name ' data-ignore_flag=false >台东</a>
+          <span class='districts tags' >
+              <a data-ignore_flag='false'>台东火车站</a>
+              <a data-ignore_flag='false'>富冈渔港</a>
+              <a data-ignore_flag='false'>池上</a>
+              <a data-ignore_flag='false'>鹿野高台</a>
+              <a data-ignore_flag='false'>绿岛</a>
+              <a data-ignore_flag='false'>兰屿</a>
+          </span>
+        </li>
+        <li class='item' data-city-name='新竹' >
+        <a class='city-name ' data-ignore_flag=false >新竹</a>
+          <span class='districts tags' >
+              <a data-ignore_flag='false'>新竹火车站</a>
+          </span>
+        </li>
+        <li class='item' data-city-name='彰化' >
+        <a class='city-name ' data-ignore_flag=false >彰化</a>
+          <span class='districts tags' >
+              <a data-ignore_flag='false'>鹿港小镇</a>
+              <a data-ignore_flag='false'>彰化市区</a>
+          </span>
+        </li>
+        <li class='item' data-city-name='宜兰' >
+        <a class='city-name ' data-ignore_flag=false >宜兰</a>
+          <span class='districts tags' >
+              <a data-ignore_flag='false'>礁溪温泉</a>
+              <a data-ignore_flag='false'>罗东/冬山</a>
+          </span>
+        </li>
+        <li class='item' data-city-name='澎湖' >
+        <a class='city-name ' data-ignore_flag=false >澎湖</a>
+          <span class='districts tags' >
+              <a data-ignore_flag='false'>马公市区</a>
+              <a data-ignore_flag='false'>白沙乡</a>
+              <a data-ignore_flag='false'>西屿</a>
+              <a data-ignore_flag='false'>七美</a>
+              <a data-ignore_flag='false'>望安</a>
+          </span>
+        </li>
+        <li class='item' data-city-name='新北' >
+        <a class='city-name ' data-ignore_flag=false >新北</a>
+          <span class='districts tags' >
+              <a data-ignore_flag='false'>桃园机场周边</a>
+              <a data-ignore_flag='false'>淡水</a>
+              <a data-ignore_flag='false'>九份</a>
+              <a data-ignore_flag='false'>乌来温泉</a>
+          </span>
+        </li>
+    </ul>
+  </div>
+</div>
+
+            <span class='date-picker-wrapper date_picker_wrapper'>
+              <div class='first_picker'>
+                <input class="house-home-cover__search-checkin-day house_home_search_checkin_day" id="start_day" name="start_day" placeholder="入住" readonly="readonly" type="text" value="2015-02-20" />
+              </div>
+              <div class='second_picker'>
+                <input class="house-home-cover__search-checkout-day house_home_search_checkout_day" id="end_day" name="end_day" placeholder="离开" readonly="readonly" type="text" value="2015-02-21" />
+              </div>
+            </span>
+            <button class="house-home-search-submit house_home_search_submit" id="ga-house-home__search">
+              <span class='yicon-house-home-search'></span>
+</button>            <span class='yicon-house-home-search-place'></span>
+            <span class='checkin yicon-house-home-search-calendar'></span>
+            <span class='checkout yicon-house-home-search-calendar'></span>
+          </div>
+        </div>
+          <div class='house-home-cover__price'>
+            <a href="/houses/DET8M1ux3ZA" class="black-bg-text-arrow-link">
+              <div class='price-desc animate_banner_price_desc'><p>涵碧楼 ￥3254起</p><span class='icon-home-banner-link'></span></div>
+</a>          </div>
+      </div>
+</form>  </div>
+
+  <div class="resource-home-page house-home-page">
+    <div class='house-home-page__sections home-page-horizontal-sections'>
+          
+<div class="horizontal-trisection-template magazine-v2">
+  <div class='magazine-text horizontal-trisection-template__text'>
+    <h2>
+      大鱼特惠住宿，全网最低价
+    </h2>
+    <p>您值得拥有一次赏心悦目的旅行，一次舒适又优惠的入住体验。<br>这一次，大鱼精选特惠又优质的住宿，回馈给您。<br>享受全网最低价特惠住宿，实现您的完美旅途！</p>
+  </div>
+  <div class='container row cards'>
+      <div class="span4 ">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/DmLuGLxK6gE" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="台北欧华酒店" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s1_1_20140606-6af4e45f0ff5128ca8d0bd232bebd2a4.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/DmLuGLxK6gE" class="ga-house-home__recommend" target="_blank">
+        台北欧华酒店
+</a>    </span>
+    <div class="addr">
+      台北
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>887<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+      <div class="span4 middle-card">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/uXh5u3I49nU" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="夏奇拉乐活旅店" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s1_2_20140606-7656730fd5a9b7d4851b808bb626ae9c.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/uXh5u3I49nU" class="ga-house-home__recommend" target="_blank">
+        夏奇拉乐活旅店
+</a>    </span>
+    <div class="addr">
+      垦丁
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>337<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+      <div class="span4 ">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/n_9phBpz8xA" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="美栈-大街旅店" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s1_3_20140606-50cfcf690dae0e1e8b3be5006f020308.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/n_9phBpz8xA" class="ga-house-home__recommend" target="_blank">
+        美栈-大街旅店
+</a>    </span>
+    <div class="addr">
+      垦丁
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>772<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+  </div>
+  <div class='horizontal-trisection-template__ribbon'></div>
+</div>
+
+          
+<div class="horizontal-trisection-template magazine-v2">
+  <div class='magazine-text horizontal-trisection-template__text'>
+    <h2>
+      留下来，在国境之南
+    </h2>
+    <p>“如果海会说话，如果风爱上沙”<br>在垦丁这片土地，有着太多的光影和记忆需要去追寻和回味<br>所以这一次，留在这里，试着把那一年的故事接下去说完。</p>
+  </div>
+  <div class='container row cards'>
+      <div class="span4 ">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/bWdc5MhL7wQ" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="绿波廊度假旅店" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s1_1_20140528-835747765c9d93604ba621d76c8cde0f.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/bWdc5MhL7wQ" class="ga-house-home__recommend" target="_blank">
+        绿波廊度假旅店
+</a>    </span>
+    <div class="addr">
+      垦丁
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>253<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+      <div class="span4 middle-card">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/ICrzrUe5oJQ" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="阿飞冲浪旅店一馆" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s1_2_20140528-d9f5626982de9b0e3f64006001147868.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/ICrzrUe5oJQ" class="ga-house-home__recommend" target="_blank">
+        阿飞冲浪旅店一馆
+</a>    </span>
+    <div class="addr">
+      垦丁
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>125<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+      <div class="span4 ">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/pew7C6Tv1go" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="伯利恒渡假中心" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s1_3_20140528-15bed6836f7871d3863d41352dabea06.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/pew7C6Tv1go" class="ga-house-home__recommend" target="_blank">
+        伯利恒渡假中心
+</a>    </span>
+    <div class="addr">
+      垦丁
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>412<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+  </div>
+  <div class='horizontal-trisection-template__ribbon'></div>
+</div>
+
+          
+<div class="horizontal-trisection-template magazine-v2">
+  <div class='magazine-text horizontal-trisection-template__text'>
+    <h2>
+      就是想吹吹太平洋的风
+    </h2>
+    <p>花莲，我来了<br>我就是想吹吹太平洋的风，我就是想看看太平洋的海，我就是想看太平洋的第一缕日光……<br>好吧，住在这里，这些愿望，给你一次满足！</p>
+  </div>
+  <div class='container row cards'>
+      <div class="span4 ">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/NSCi6JtTIzk" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="美那多民宿" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s2_1_20140528-c7cad4c7bdf6a9c9f7f3ff5428961613.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/NSCi6JtTIzk" class="ga-house-home__recommend" target="_blank">
+        美那多民宿
+</a>    </span>
+    <div class="addr">
+      花莲
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>354<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+      <div class="span4 middle-card">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/iCdloipqmGs" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="花莲街角精致民宿" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s1_2_20140516-9b1fbbe297bd36afae65e03541f90de6.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/iCdloipqmGs" class="ga-house-home__recommend" target="_blank">
+        花莲街角精致民宿
+</a>    </span>
+    <div class="addr">
+      花莲
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>350<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+      <div class="span4 ">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/bRy6Bw7880Y" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="阿里巴巴民宿" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s2_3_20140528-cfce0d08f32bd5d1de710936380cf1d7.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/bRy6Bw7880Y" class="ga-house-home__recommend" target="_blank">
+        阿里巴巴民宿
+</a>    </span>
+    <div class="addr">
+      花莲
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>250<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+  </div>
+  <div class='horizontal-trisection-template__ribbon'></div>
+</div>
+
+          
+<div class="horizontal-trisection-template magazine-v2">
+  <div class='magazine-text horizontal-trisection-template__text'>
+    <h2>
+      那让人念念不忘的人情味儿
+    </h2>
+    <p>住民宿就是为了那浓浓的人情味儿……<br>喜欢听民宿老板说一声，“您回来啦，今天玩得怎么样？”<br>喜欢跟民宿老板拉家常儿，聊聊他眼中的大陆和我眼中的台湾……</p>
+  </div>
+  <div class='container row cards'>
+      <div class="span4 ">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/Zj195EP1yJ0" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="九份阳光味宿" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s2_1_20140503-b2b2b8c18b9c42bce908ad4a946a39ea.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/Zj195EP1yJ0" class="ga-house-home__recommend" target="_blank">
+        九份阳光味宿
+</a>    </span>
+    <div class="addr">
+      九份
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>417<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+      <div class="span4 middle-card">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/Xso28P_83Is" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="垦丁秀风民宿" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s2_2_20140503-c948c5971c05b3486e7a476444a8a456.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/Xso28P_83Is" class="ga-house-home__recommend" target="_blank">
+        垦丁秀风民宿
+</a>    </span>
+    <div class="addr">
+      垦丁
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>421<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+      <div class="span4 ">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/zLEo2u1aeDY" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="1967时尚私人会馆" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s2_3_20140503-3db0ce1f04ee8025869739194f6e8fac.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/zLEo2u1aeDY" class="ga-house-home__recommend" target="_blank">
+        1967时尚私人会馆
+</a>    </span>
+    <div class="addr">
+      台南
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>312<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+  </div>
+  <div class='horizontal-trisection-template__ribbon'></div>
+</div>
+
+          
+<div class="horizontal-trisection-template magazine-v2">
+  <div class='magazine-text horizontal-trisection-template__text'>
+    <h2>
+      这一次，酒店就是我的目的地
+    </h2>
+    <p>一个上乘的酒店，绝对会为有品位的旅行者的整个旅途加分不少。<br>出色的酒店把目的地的人情味和特点融汇其中，让前来入住的旅行者流连忘返。</p>
+  </div>
+  <div class='container row cards'>
+      <div class="span4 ">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/qRgeBX4-wsA" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="台北圆山大饭店" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s3_1_20140503-f5997d5b6ba229c6d4abdb404c38b345.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/qRgeBX4-wsA" class="ga-house-home__recommend" target="_blank">
+        台北圆山大饭店
+</a>    </span>
+    <div class="addr">
+      台北
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>750<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+      <div class="span4 middle-card">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/PVszZyxW9uE" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="北投丽禧温泉酒店" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s3_2_20140503-14b8d8eff213d8b56d3509b9078b8840.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/PVszZyxW9uE" class="ga-house-home__recommend" target="_blank">
+        北投丽禧温泉酒店
+</a>    </span>
+    <div class="addr">
+      台北
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>2444<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+      <div class="span4 ">
+        <div class='card magazine-horizontal-card'>
+  <div class='img-wrap'>
+    <a href="/houses/DET8M1ux3ZA" class="lazy" target="_blank">
+      <div class='magazine_horizontal'>
+        <img alt="涵碧楼大饭店" class="ga-house-home__recommend" data-original="http://www.fishtrip.cn/assets/house_home_page/tw_s3_3_20140503-a17f8a83d42bd74482eefb75d88c3035.jpg" height="206" src="http://www.fishtrip.cn/assets/white-1f9f2edaca82d336369dbf59974c69b9.gif" width="364" />
+      </div>
+</a>  </div>
+
+  <div class="caption">
+  <div class="description">
+    <span class="name">
+      <a href="/houses/DET8M1ux3ZA" class="ga-house-home__recommend" target="_blank">
+        涵碧楼大饭店
+</a>    </span>
+    <div class="addr">
+      南投
+    </div>
+  </div>
+  <div class='price-tag'>
+    <span class='yicon-magazine-card-price-tag'>
+
+      <div class="price-text ">
+        <p class='price-number'>
+            <small class='yuan'>￥</small>3287<small class='floor'>起</small>
+        </p>
+      </div>
+    </span>
+  </div>
+</div>
+
+
+</div>
+
+      </div>
+  </div>
+  <div class='horizontal-trisection-template__ribbon'></div>
+</div>
+
+    </div>
+  </div>
+
+
+    <div class="container page-container">
+      
+
+
+
+    </div>
+
+    <a href="/suggests/new" class="new_suggest_cmd fixed-new-suggest" data-remote="true" data-type="json">
+  <span class='yicon-suggest'></span>
+</a>
+
+
+    <div class='pre-footer pre_footer'>
+  <div class='container'>
+    <div class='footer-left-column span6'>
+      <div class='links container'>
+        <a class='span1' href='http://www.fishtrip.cn/about_dayu'>关于大鱼</a>
+        <a class='span1' href='http://www.fishtrip.cn/about_us'>团队介绍</a>
+        <a class='span1' href='http://www.fishtrip.cn/jobs'>加入我们</a>
+        <a class='span1' href='http://www.fishtrip.cn/contact'>联系我们</a>
+        <a class='span1' href='http://www.fishtrip.cn/tos'>服务条款</a>
+      </div>
+      <div class='footer-left-column-divider'></div>
+
+      <div class='social container'>
+        <ul>
+
+          <li class='span2 weibo'>
+          <a href="http://e.weibo.com/u/2748947541" target="_blank">
+            <div class='footer-icon-wrapper'>
+          <span class='yicon icon-footer-weibo-blue'></span>
+            </div>
+          <div class='title'>
+              @大鱼自助游
+</a>          </div>
+          </li>
+
+          <li class='span2 hunter'>
+          <a href="http://hunter.fishtrip.cn/" class="hunter" target="_blank">
+            <div class='footer-icon-wrapper'>
+              <span class='yicon icon-footer-hunter-blue'></span>
+            </div>
+            <div class='title'>
+              加入旅行猎人计划
+            </div>
+</a>          </li>
+
+          <li class='span2 retailer'>
+          <a href="http://www.fishtrip.cn/register" target="_blank">
+            <div class='footer-icon-wrapper'>
+            <span class='yicon icon-footer-retailer-blue'></span>
+            </div>
+            <div class='title'>
+              申请成为供应商
+            </div>
+</a>          </li>
+        </ul>
+
+      </div>
+    </div>
+    <div class='span6 footer-right-column'>
+      <ul class='container'>
+        <li class='span3'>
+            <img alt="Qrcode" height="150" src="http://www.fishtrip.cn/assets/home_bg/qrcode-e5dfe7d4d71058eccb4de351e5646659.jpg" width="150" />
+        </li>
+        <li class='footer-phone span3'>
+          <div class="footer-phone-group">
+            <p>旅行顾问工作时间10:00~20:00</p>
+            <h3>400-185-1616</h3>
+            <div class='detail-info'>
+              <h5>0086-10-6760-6766 ( 境外 )</h5>
+              <h5>help@fishtrip.cn ( 用户 )</h5>
+              <h5>provider@fishtrip.cn ( 供应商 )</h5>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <div class="copyright">
+    <span>Copyright © fishtrip.cn 2013 All Rights Reserved </span>&nbsp;&nbsp;&nbsp;&nbsp;
+    <span>京ICP备12028711号</span> &nbsp;&nbsp;
+    <span>京公安网备11010702000590</span>
+  </div>
+</div>
+
+
+
+    <div class='sitemap row' style='display: none;'>
+    <ul class="country span1">
+      <li><a href="/countries/kP6hBaVM3A0">台湾</a></li>
+      <li><a href="/countries/kP6hBaVM3A0/houses/home">台湾民宿</a></li>
+      <li><a href="/countries/kP6hBaVM3A0/activities/home">台湾活动</a></li>
+      <li><a href="/countries/kP6hBaVM3A0/traffics/home">台湾交通</a></li>
+      <li><a href="/countries/kP6hBaVM3A0/spots">台湾目的地</a></li>
+    </ul>
+    <ul class="country span1">
+      <li><a href="/countries/MqU9vrCuM5k">帕劳</a></li>
+      <li><a href="/countries/MqU9vrCuM5k/houses/home">帕劳民宿</a></li>
+      <li><a href="/countries/MqU9vrCuM5k/activities/home">帕劳活动</a></li>
+      <li><a href="/countries/MqU9vrCuM5k/traffics/home">帕劳交通</a></li>
+      <li><a href="/countries/MqU9vrCuM5k/spots">帕劳目的地</a></li>
+    </ul>
+    <ul class="country span1">
+      <li><a href="/countries/uEA8SC7gDVY">巴西</a></li>
+      <li><a href="/countries/uEA8SC7gDVY/houses/home">巴西民宿</a></li>
+      <li><a href="/countries/uEA8SC7gDVY/activities/home">巴西活动</a></li>
+      <li><a href="/countries/uEA8SC7gDVY/traffics/home">巴西交通</a></li>
+      <li><a href="/countries/uEA8SC7gDVY/spots">巴西目的地</a></li>
+    </ul>
+    <ul class="country span1">
+      <li><a href="/countries/K8nJ0ERhv8w">日本</a></li>
+      <li><a href="/countries/K8nJ0ERhv8w/houses/home">日本民宿</a></li>
+      <li><a href="/countries/K8nJ0ERhv8w/activities/home">日本活动</a></li>
+      <li><a href="/countries/K8nJ0ERhv8w/traffics/home">日本交通</a></li>
+      <li><a href="/countries/K8nJ0ERhv8w/spots">日本目的地</a></li>
+    </ul>
+</div>
+
+
+    <script src="http://libs.baidu.com/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+<script src="http://libs.baidu.com/jqueryui/1.8.24/jquery-ui.min.js" type="text/javascript"></script>
+<script src="http://libs.baidu.com/bootstrap/2.3.2/js/bootstrap.min.js" type="text/javascript"></script>
+
+
+<script src="http://www.fishtrip.cn/assets/vdayu_3rd_base-3123f14648d1b9e8fbe8befe203b919f.js" type="text/javascript"></script>
+<script src="http://www.fishtrip.cn/assets/vdayu_base-5dba50b602e0dbbdc89e3ca690ba328a.js" type="text/javascript"></script>
+<script src="http://www.fishtrip.cn/assets/application-165f8b52b4cf9560c601072bee23cfb7.js" type="text/javascript"></script>
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-33905412-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.appendChild(ga);
+    })();
+
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "//hm.baidu.com/hm.js?c150f692997ee7d711646dff27fbfcaf";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+  <script src="http://www.fishtrip.cn/assets/base/ga_event-b7eb5f3558bbd12aedcdeaeb11a7cfcd.js" type="text/javascript"></script>
+
+    
+  </body>
+</html>
+

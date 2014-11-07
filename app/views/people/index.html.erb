@@ -4,7 +4,7 @@
   <tr>
     <th>Name</th>
     <th>Age</th>
-    <th></th>
+    <th>Dec</th>
     <th></th>
     <th></th>
   </tr>
@@ -13,6 +13,7 @@
   <tr>
     <td><%= person.name %></td>
     <td><%= person.age %></td>
+    <td><%= person.dec %></td>
     <td><%= link_to 'Show', person %></td>
     <td><%= link_to 'Edit', edit_person_path(person) %></td>
     <td><%= link_to 'Destroy', person, method: :delete, data: { confirm: 'Are you sure?' } %></td>

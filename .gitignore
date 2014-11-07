@@ -4,3 +4,4 @@ tmp/*
 database.yml
 *.swp
 *.log
+solr
